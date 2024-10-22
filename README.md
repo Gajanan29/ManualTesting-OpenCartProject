@@ -3,14 +3,14 @@ This project is to illustrate the End to End testing activities performed in a S
 
 ## Following are the main set of activities performed during testing life cycle.
 
-Imp.NOTE:- Testing of this project is in progress, Following set of activities which are marked with "Dollar"
+Imp.NOTE:- Testing of this project is in progress, Following set of activities which are marked with "Tick [✔️]"
 symbol are completed.
 *************************************************************************************************************
-1.Understanding the Project.   [$]
+1.Understanding the Project.   [✔️]
 
-2.Understanding the Functional Requirement by exploring the webapplication.   [$]
+2.Understanding the Functional Requirement by exploring the webapplication.   [✔️]
 
-3.Prepare Test Plan.   [$]
+3.Prepare Test Plan.   [✔️]
 
 4.Preparing the Test Scenarios.  
 
