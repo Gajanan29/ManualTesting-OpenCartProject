@@ -12,7 +12,7 @@ symbol are completed.
 
 3.Prepare Test Plan.   [✔️]
 
-4.Preparing the Test Scenarios.  
+4.Preparing the Test Scenarios.   [✔️]  
 
 5.Prepare the Test Cases and RTM.
 
