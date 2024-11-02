@@ -15,6 +15,7 @@ symbol are completed.
 4.Preparing the Test Scenarios.   [✔️]  
 
 5.Prepare the Test Cases and RTM.
+
       1.Registration Page [✔️] 
 
 6.Review Test Cases.
