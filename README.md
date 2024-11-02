@@ -8,13 +8,14 @@ symbol are completed.
 *************************************************************************************************************
 1.Understanding the Project.   [✔️]
 
-2.Understanding the Functional Requirement by exploring the webapplication.   [✔️]
+2.Understanding the Functional Requirement by exploring the webapplication and FRS Document.   [✔️]
 
 3.Prepare Test Plan.   [✔️]
 
 4.Preparing the Test Scenarios.   [✔️]  
 
 5.Prepare the Test Cases and RTM.
+      1.Registration Page [✔️] 
 
 6.Review Test Cases.
 
