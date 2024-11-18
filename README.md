@@ -18,9 +18,9 @@ symbol are completed.
 
       1.Registration Page [✔️]
 
-6.Review Test Cases.
+6.Review Test Cases.   [✔️]
 
-7.Test Environment Setup and Build Deployment.
+7.Test Environment Setup and Build Deployment.   [✔️]
 
 8.Test Execution, Bug Reporting and Tracking.
 
