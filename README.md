@@ -22,7 +22,7 @@ symbol are completed.
 
 7.Test Environment Setup and Build Deployment.   [✔️]
 
-8.Test Execution, Bug Reporting and Tracking.
+8.Test Execution, Bug Reporting and Tracking.   [✔️]
 
 9.Sanity Testing, Re-Testing, Regression Testing, User Interface Testing.
 
